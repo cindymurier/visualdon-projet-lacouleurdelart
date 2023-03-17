@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Bienvenue sur le repo git de notre projet *La couleur de l'art*",
   "main": "index.js",
+  "browserslist": "> 0.25%, not dead",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "browserslist": "> 0.25%, not dead",
     "type": "git",
     "url": "git+https://github.com/cindymurier/visualdon-projet-lacouleurdelart.git"
   },
