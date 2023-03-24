@@ -4,16 +4,18 @@ font-family: 'Archivo Black', sans-serif;
 font-family: 'Montserrat', sans-serif; */
 
 
-* {
+:root {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    overflow-y: scroll;
+    background-color: #A6554E;
   }
 
 #home-section {
+    display: flex;
     height: 100vh;
-    overflow-y: scroll;
-    background-color: #A6554E;
+    justify-content: center;
+    align-items: center;
   }
 
 h1 {
