@@ -19,6 +19,8 @@ export const arts = {
 			},
 			numeroinventaire: "",
 			emplacement: "",
+			licence: "All rights reserved",
+			credit: "",
 		},
 	],
 	baselmuseum: [
@@ -41,6 +43,8 @@ export const arts = {
 			},
 			numeroinventaire: "",
 			emplacement: "",
+			licence: "All rights reserved",
+			credit: "",
 		},
 	],
 	lausannemuseum: [
@@ -63,6 +67,8 @@ export const arts = {
 			},
 			numeroinventaire: "",
 			emplacement: "",
+			licence: "All rights reserved",
+			credit: "",
 		},
 	],
 };
