@@ -11,6 +11,7 @@ export const arts = {
 			},
 			objet: "",
 			anneeacquisition: "",
+			image: "src/images/monimage.jpg",
 			provenance: {
 				nom: "",
 				prenom: "",
@@ -35,6 +36,7 @@ export const arts = {
 			},
 			objet: "",
 			anneeacquisition: "",
+			image: "src/images/monimage.jpg",
 			provenance: {
 				nom: "",
 				prenom: "",
@@ -59,6 +61,7 @@ export const arts = {
 			},
 			objet: "",
 			anneeacquisition: "",
+			image: "src/images/monimage.jpg",
 			provenance: {
 				nom: "",
 				prenom: "",
