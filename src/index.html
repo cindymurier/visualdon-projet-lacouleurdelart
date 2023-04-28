@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>La couleur de l'Art</title>
+	<link
+	href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;500&display=swap"
+	rel="stylesheet"
+  	/>
+	 <!-- Téléchargement des polices depuis GoogleFonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Montserrat&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="css/style.css" />
+	<script src="index.js" type="module" defer></script>
+
+	<!-- Load d3.js & plugin-->
+	<!-- pour le heatmap -->
+	<script src="https://d3js.org/d3.v4.js"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+	<!-- pour la couleur dominante -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
+
+</head>
+<body>
+	<main>
+	
+
+    <!-- Page d'accueil -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="home-section" class="scroll-section section-1">
+        <h1>LA COULEUR DE L'ART</h1>
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	<!-- Concept -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="concept-section" class="scroll-section section-2">
+        <h2>L’histoire des pigments et son usage dans la peinture par nos ancêtres remonte d’il y a 
+			plus de 40 000 ans. Les couleurs nous entourent et sont associées aux époques et cultures. 
+			Nous allons vous emmener avec nous pour traverser l’histoire des couleurs à travers les époques 
+			et les anecdotes.
+		</h2>
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	<!-- Histoire -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="history-section" class="scroll-section section-3">
+		<h2>La couleur à travers le temps</h2>
+		<div class="timeline">
+		<!-- La préhistoire -->
+		  <div class="event">
+			<div class="event-content">
+			  <h3>La préhistoire</h3>
+			  <p>Les pigments étaient utilisés à la base pour peindre des animaux sur les paroies des cavernes avec de la poudre d’argile, du charbon de bois calciné et des minéraux. Les plus anciennes peintures rupestres connues sont situées dans la grotte d’El Castillo en Espagne. Les pigments les plus utilisés à cette époque sont l’ocre rouge, le noir de fumée et le blanc de craie.</p>
+			</div>
+		  </div>
+		  <!-- L'Antiquité -->
+		  <div class="event">
+			<div class="event-content">
+			  <h3>L’antiquité</h3>
+			  <p>On retrouve les mêmes pigments que la préhistoire qui sont très utilisés pour leur accessibilité et leurs faibles coûts. On retrouve les couleurs dans la vie quotidienne et dans l’art. Le pigment lazure, un bleu obtenu à partir d’une pierre semi-précieuse, le vermillon obtenu à partir de sulfure de mercure et le pourpre obtenu à partir de mollusques de mer font partie des pigments de luxe coûteux. Ils sont utilisés et réservés pour des projets de prestige ou des vêtements pour les élites.</p>
+			</div>
+		  </div>
+		  <!-- Le Moyen Âge -->
+		  <div class="event">
+			<div class="event-content">
+			  <h3>Le Moyen Âge</h3>
+			  <p>A cette époque, la couleur a une grande importance car elle permet d’exprimer les émotions, communiquer avec le divin et marquer la hiérarchie sociale. Les pigments sont toujours fabriqués à partir de matériaux naturels comme les plantes, les minéraux ou encore les insectes. Les couleurs prennent une place symbolique et dans l’art médiéval. Le rouge symbolise le sang, la passion et la royauté. Le jaune, quant à lui, représente la trahison et l’hypocrisie. Le vert est associé à la nature et la fertilité et le blanc, la pureté et la divinité.</p>
+			</div>
+		  </div>
+		  <!-- Les Temps Modernes -->
+		  <div class="event">
+			<div class="event-content">
+			  <h3>Les Temps Modernes</h3>
+			  <p>La couleur prend son importance dans la vie quotidienne que ce soit dans la publicité, la mode, la psychologie ou l’art. Les couleurs sont utilisées pour créer un sentiment particulier, transmettre un message ou encore créer des effets d’optiques. Les pigments utilisés à cette époque dans l’art sont le blanc de titane, le noir d’ivoir, le jaune et le rouge de cadmium, le bleu outremer et le vert émeraude car elles permettent de créer des couleurs vibrantes.</p>
+			</div>
+		  </div>
+		  <!-- L’époque contemporaine -->
+		  <div class="event">
+			<div class="event-content">
+			  <h3>L’époque contemporaine</h3>
+			 <p>Dans l’époque contemporaine, la couleur a le même rôle et permet d’attirer l’attention, évoquer des sentiments pour renforcer la communication. 
+				Toutes les couleurs ont des symboliques différentes suivant les régions du monde. 
+				Le rouge, par exemple, est associé à la prospérité en Chine, mais la colère et la violence dans une partie des cultures occidentales. 
+				</p>
+			</div>	  
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	<!-- Anecdote -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="anectode-section">
+		<h2>Anecdotes</h2>
+		<div class="anectodes">
+		<!-- Le rose -->
+		  <div class="anectode-rose">
+			<div class="anectode-content">
+			  <h3>Le rose</h3>
+			  <p>Le rose n’a pas toujours été associé aux filles. C’est qu’en 1950 qu’on commence à considérer que c’est une couleur féminine. 
+				Avant ça, le rose était considéré comme une version du rouge masculin tandis que le bleu était associé aux filles dû à la représentation du manteau de la Vierge Marie.
+				</p>
+			</div>
+		<!-- Le vert -->
+		<div class="anectode-vert">
+			<div class="anectode-content">
+			  <h3>Le vert</h3>
+			  <p>Le vert, quant à lui, est souvent associé au monde naturel, à la chance ou encore à l'espoir. Mais il fut un temps où le vert était associé au poison. Le pigment vert, Scheele’s Green, a été inventé en 1775 pour être utilisé dans les teintures et peintures. 
+				Il a été montré qu’il était létal dans le papier peint à cause de sa forte dose d’arsenic qui se libérait en minuscules particules dans l’air. 
+				C’est pour cela que la Grande-Bretagne avait été soupçonnée d’avoir empoisonné Napoléon à Sainte-Hélène en 1821 car le papier peint vert de sa chambre contenait de l’arsenic. 
+				</p>
+			</div>
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	<!-- Heatmap -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="heatmap-section">
+		<!-- Create a div where the graph will take place -->
+		<div id="div_template"></div>	
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	<!-- Oeuvre -->
+    <!------------------------------------------------------------------------------------------------------------>
+
+	<section id="oeuvre-section">
+       
+    </section>
+
+	<!------------------------------------------------------------------------------------------------------------>
+
+	</main>
+</body>
+</html>

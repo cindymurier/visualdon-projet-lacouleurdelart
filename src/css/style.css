@@ -1,0 +1,110 @@
+
+/* utiliser les fonts : 
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+
+:root {
+  margin: 0;
+  padding: 0;
+  overflow-y: scroll;
+  background-color: #A6554E;
+  font-family: 'Archivo Black', sans-serif;
+  color: floralwhite;
+}
+
+h1 {
+    font-size: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+  font-size: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 35px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* page d'accueil */
+
+#home-section {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+/* page d'explication du concept */
+
+#concept-section {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+/* page d'explication de l'histoire */
+
+#history-section {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+div .event {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* page d'explication de l'anecdote */
+
+#anectode-section {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.anectode-rose {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2C9C9;
+}
+
+.anectode-vert {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C9F2D6;
+}
+
+
