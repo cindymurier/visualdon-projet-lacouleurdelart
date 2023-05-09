@@ -11,7 +11,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1926",
-			image: "assets/images/bernmuseum/fK77.jpg",
+			image: "/assets/images/bernmuseum/fK77.jpg",
 			provenance: {
 				nom: "Alice Bailly",
 				pays: "Lausanne",
@@ -35,7 +35,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1910",
-			image: "assets/images/bernmuseum/fK1179_KF100-3793.jpg",
+			image: "/assets/images/bernmuseum/fK1179_KF100-3793.jpg",
 			provenance: {
 				nom: "Ferdinand Hodler",
 				pays: "Genf",
@@ -60,7 +60,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1950",
-			image: "assets/images/bernmuseum/fK1759.jpg",
+			image: "/assets/images/bernmuseum/fK1759.jpg",
 			provenance: {
 				nom: "Ernst Morgenthaler",
 				pays: "Zürich",
@@ -85,7 +85,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1892",
-			image: "assets/images/bernmuseum/GKS7.jpg",
+			image: "/assets/images/bernmuseum/GKS7.jpg",
 			provenance: {
 				nom: "Nachlass Stauffer-Bern",
 				pays: "Biel",
@@ -110,7 +110,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1892",
-			image: "assets/images/bernmuseum/GKS19.jpg",
+			image: "/assets/images/bernmuseum/GKS19.jpg",
 			provenance: {
 				nom: "Nachlass Stauffer-Bern",
 				pays: "Biel",
@@ -135,7 +135,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1895",
-			image: "assets/images/bernmuseum/GKS129.jpg",
+			image: "/assets/images/bernmuseum/GKS129.jpg",
 			provenance: {
 				nom: "Nachlass Durheim",
 				pays: "Bern",
@@ -160,7 +160,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1897",
-			image: "assets/images/bernmuseum/GKS183.jpg",
+			image: "/assets/images/bernmuseum/GKS183.jpg",
 			provenance: {
 				nom: "Eduard von Ernst-Marcuard",
 				pays: "Berna",
@@ -185,7 +185,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1910",
-			image: "assets/images/bernmuseum/GKS483.jpg",
+			image: "/assets/images/bernmuseum/GKS483.jpg",
 			provenance: {
 				nom: "Dr. Theodor Engelmann",
 				pays: "Bâle",
@@ -210,7 +210,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1917",
-			image: "assets/images/bernmuseum/GKS528.tif",
+			image: "/assets/images/bernmuseum/GKS528.jpg",
 			provenance: {
 				nom: "Frida Buri-Schenk",
 				pays: "Brienz",
@@ -235,7 +235,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1919",
-			image: "assets/images/bernmuseum/GKS551.jpg",
+			image: "/assets/images/bernmuseum/GKS551.jpg",
 			provenance: {
 				nom: "Nachlass Max Buri",
 				pays: "München, DE",
@@ -260,7 +260,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1920",
-			image: "assets/images/bernmuseum/GKS590.tif",
+			image: "/assets/images/bernmuseum/GKS590.jpg",
 			provenance: {
 				nom: "Berthe Hodler-Jacques",
 				pays: "Genf",
@@ -285,7 +285,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1921",
-			image: "assets/images/bernmuseum/GKS595.tif",
+			image: "/assets/images/bernmuseum/GKS595.jpg",
 			provenance: {
 				nom: " Frank Puaux",
 				pays: "Paris",
@@ -310,7 +310,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1925",
-			image: "assets/images/bernmuseum/GKS653.jpg",
+			image: "/assets/images/bernmuseum/GKS653.jpg",
 			provenance: {
 				nom: "Louise Catherine Breslau",
 				pays: "Neuilly sur-Seine, FR",
@@ -335,7 +335,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1930",
-			image: "assets/images/bernmuseum/GKS726.jpg",
+			image: "/assets/images/bernmuseum/GKS726.jpg",
 			provenance: {
 				nom: "Exposition de mémoire Auguste Baud-Bovy",
 				pays: "Kunsthaus Zurich",
@@ -360,7 +360,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "",
-			image: "assets/images/bernmuseum/GKS810_Werktag.jpg",
+			image: "/assets/images/bernmuseum/GKS810_Werktag.jpg",
 			provenance: {
 				nom: "Théodora de Saussure/de la Rive",
 				pays: "Genthod/GE",
@@ -385,7 +385,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1936",
-			image: "assets/images/bernmuseum/GKS855_GKS200-112.jpg",
+			image: "/assets/images/bernmuseum/GKS855_GKS200-112.jpg",
 			provenance: {
 				nom: "Comtesse Hedwige Rey (geb. Branicki)",
 				pays: "Indre-et-Loire, FR",
@@ -410,7 +410,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1936",
-			image: "assets/images/bernmuseum/GKS856.jpg",
+			image: "/assets/images/bernmuseum/GKS856.jpg",
 			provenance: {
 				nom: "Comtesse Hedwige Rey (geb. Branicki)",
 				pays: "Indre-et-Loire, FR",
@@ -435,7 +435,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1937",
-			image: "assets/images/bernmuseum/GKS865_GKS200-1889_Vorderseite.JPG",
+			image: "/assets/images/bernmuseum/GKS865_GKS200-1889_Vorderseite.JPG",
 			provenance: {
 				nom: "Galerie Otto Schatzker",
 				pays: "Wien",
@@ -460,7 +460,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1944",
-			image: "assets/images/bernmuseum/GKS915.tif",
+			image: "/assets/images/bernmuseum/GKS915.jpg",
 			provenance: {
 				nom: "Dr. Fritz Nathan",
 				pays: "St. Gallen",
@@ -485,7 +485,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1947",
-			image: "assets/images/bernmuseum/GKS937_Vorderseite_G1638.jpg",
+			image: "/assets/images/bernmuseum/GKS937_Vorderseite_G1638.jpg",
 			provenance: {
 				nom: "Oskar Reinhart",
 				pays: "Winterthour",
@@ -510,7 +510,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1948",
-			image: "assets/images/bernmuseum/GKS941_GKS200-120.jpg",
+			image: "/assets/images/bernmuseum/GKS941_GKS200-120.jpg",
 			provenance: {
 				nom: "Galerie Theodor Fischer",
 				pays: "Luzern",
@@ -535,7 +535,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1953",
-			image: "assets/images/bernmuseum/GKS985_Vorderseite_G1766.jpg",
+			image: "/assets/images/bernmuseum/GKS985_Vorderseite_G1766.jpg",
 			provenance: {
 				nom: "Adine Ganzoni",
 				pays: "Genf",
@@ -560,7 +560,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1955",
-			image: "assets/images/bernmuseum/GKS998_Vorderseite_G1816.jpg",
+			image: "/assets/images/bernmuseum/GKS998_Vorderseite_G1816.jpg",
 			provenance: {
 				nom: "The Arcade Gallery Ltd.",
 				pays: "London",
@@ -585,7 +585,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1955",
-			image: "assets/images/bernmuseum/GKS999_GKS200-127.jpg",
+			image: "/assets/images/bernmuseum/GKS999_GKS200-127.jpg",
 			provenance: {
 				nom: "The Arcade Gallery Ltd.",
 				pays: "London",
@@ -611,7 +611,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1964s",
-			image: "assets/images/bernmuseum/GKS1054_GKS200-137.jpg",
+			image: "/assets/images/bernmuseum/GKS1054_GKS200-137.jpg",
 			provenance: {
 				nom: "Dr. Fritz Nathan",
 				pays: "Zurich",
@@ -636,7 +636,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1967",
-			image: "assets/images/bernmuseum/GKS1066-57_Vorderseite_A 9462.jpg",
+			image: "/assets/images/bernmuseum/GKS1066-57_Vorderseite_A 9462.jpg",
 			provenance: {
 				nom: "Dr. Marguerite Schuler",
 				pays: "Muri/BE",
@@ -661,7 +661,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1961",
-			image: "assets/images/bernmuseum/GKS1098.jpg",
+			image: "/assets/images/bernmuseum/GKS1098.jpg",
 			provenance: {
 				nom: "Marie-Charlotte Quinche",
 				pays: "Neuenburg",
@@ -686,7 +686,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1975",
-			image: "assets/images/bernmuseum/GKS1107.jpg",
+			image: "/assets/images/bernmuseum/GKS1107.jpg",
 			provenance: {
 				nom: "Galerie Kurt Meissner",
 				pays: "Zürich",
@@ -711,7 +711,7 @@ export const arts = {
 			},
 			objet: "Dessin",
 			anneeacquisition: "1975",
-			image: "assets/images/bernmuseum/GKS1109_Vorderseite_A9148.jpg",
+			image: "/assets/images/bernmuseum/GKS1109_Vorderseite_A9148.jpg",
 			provenance: {
 				nom: "Galerie Kurt Meissner",
 				pays: "Zürich",
@@ -736,7 +736,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1976",
-			image: "assets/images/bernmuseum/GKS1119-3_Vorderseite_A9197.jpg",
+			image: "/assets/images/bernmuseum/GKS1119-3_Vorderseite_A9197.jpg",
 			provenance: {
 				nom: "Galerie Feilchenfeldt",
 				pays: "Zürich",
@@ -761,7 +761,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1986",
-			image: "assets/images/bernmuseum/GKS1176_GKS200-156.jpg",
+			image: "/assets/images/bernmuseum/GKS1176_GKS200-156.jpg",
 			provenance: {
 				nom: "Claire (Kay) Oederlin",
 				pays: "La Tour-de-Peilz/VD",
@@ -777,7 +777,7 @@ export const arts = {
 		},
 		{
 			artiste: "Albert Anker (1831–1910)",
-			titre: "Albert Anker (1831–1910)",
+			titre: "Jeune fille tricotant",
 			date: "1890 - 1910",
 			dimensions: {
 				hauteur: "32.7",
@@ -786,7 +786,7 @@ export const arts = {
 			},
 			objet: "Dessin",
 			anneeacquisition: "1989",
-			image: "assets/images/bernmuseum/GKS1213_Vorderseite_A1989.282.jpg",
+			image: "/assets/images/bernmuseum/GKS1213_Vorderseite_A1989.282.jpg",
 			provenance: {
 				nom: "Joseph Georges und Margot Bloch",
 				pays: "Zürich",
@@ -811,7 +811,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1991",
-			image: "assets/images/bernmuseum/GKS1225_GKS200-218_ungerahmt.jpg",
+			image: "/assets/images/bernmuseum/GKS1225_GKS200-218_ungerahmt.jpg",
 			provenance: {
 				nom: "Robert Cavegn",
 				pays: "Felsburg, DE",
@@ -837,7 +837,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1992",
-			image: "assets/images/bernmuseum/GKS1232_GKS200-713.jpg",
+			image: "/assets/images/bernmuseum/GKS1232_GKS200-713.jpg",
 			provenance: {
 				nom: "Galerie Römer",
 				pays: "Zürich",
@@ -863,7 +863,7 @@ export const arts = {
 			},
 			objet: "Photographie",
 			anneeacquisition: "2000",
-			image: "assets/images/bernmuseum/GKS1279_GKS200-1773.jpg",
+			image: "/assets/images/bernmuseum/GKS1279_GKS200-1773.jpg",
 			provenance: {
 				nom: "Peter Herzog",
 				pays: "Basel",
@@ -888,7 +888,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "2000",
-			image: "assets/images/bernmuseum/GKS1282_GKS200-714.jpg",
+			image: "/assets/images/bernmuseum/GKS1282_GKS200-714.jpg",
 			provenance: {
 				nom: "Christie's",
 				pays: "Zurigo",
@@ -915,7 +915,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1934",
-			image: "assets/images/baselmuseum/fk191_KF200-11086_ungerahmt.JPG",
+			image: "/assets/images/baselmuseum/fk191_KF200-11086_ungerahmt.JPG",
 			provenance: {
 				nom: "Hans Berger",
 				pays: "Genf",
@@ -940,7 +940,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1928",
-			image: "assets/images/baselmuseum/fK930.jpg",
+			image: "/assets/images/baselmuseum/fK930.jpg",
 			provenance: {
 				nom: "Giovanni Ulrico Giacometti",
 				pays: "Stampa/GR",
@@ -965,7 +965,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1938",
-			image: "assets/images/baselmuseum/fK1572.jpg",
+			image: "/assets/images/baselmuseum/fK1572.jpg",
 			provenance: {
 				nom: "Eugène Martin",
 				pays: "Genève",
@@ -990,7 +990,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1933",
-			image: "assets/images/baselmuseum/fK1707.jpg",
+			image: "/assets/images/baselmuseum/fK1707.jpg",
 			provenance: {
 				nom: "Otto Meyer-Amden",
 				pays: "Zürich",
@@ -1015,7 +1015,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1933",
-			image: "assets/images/baselmuseum/fK1708.jpg",
+			image: "/assets/images/baselmuseum/fK1708.jpg",
 			provenance: {
 				nom: "Otto Meyer-Amden",
 				pays: "Zürich",
@@ -1040,7 +1040,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1896",
-			image: "assets/images/baselmuseum/fK2353.jpg",
+			image: "/assets/images/baselmuseum/fK2353.jpg",
 			provenance: {
 				nom: "Karl Stauffer-Bern",
 				pays: "Berlin",
@@ -1064,7 +1064,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1895",
-			image: "assets/images/baselmuseum/GKS118.jpg",
+			image: "/assets/images/baselmuseum/GKS118.jpg",
 			provenance: {
 				nom: "Anselm Feuerbach",
 				pays: "München",
@@ -1089,7 +1089,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1896",
-			image: "assets/images/baselmuseum/GKS165.jpg",
+			image: "/assets/images/baselmuseum/GKS165.jpg",
 			provenance: {
 				nom: "Aelbert Jacobsz, Cuyp",
 				pays: "Dordrecht, NL",
@@ -1114,7 +1114,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1896",
-			image: "assets/images/baselmuseum/GKS181.jpg",
+			image: "/assets/images/baselmuseum/GKS181.jpg",
 			provenance: {
 				nom: "Unbekannter Meister, Salzburg",
 				pays: "Basel",
@@ -1139,7 +1139,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1899",
-			image: "assets/images/baselmuseum/GKS208.jpg",
+			image: "/assets/images/baselmuseum/GKS208.jpg",
 			provenance: {
 				nom: "Ambrosius Holbein",
 				pays: "Basel",
@@ -1164,7 +1164,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1899",
-			image: "assets/images/baselmuseum/GKS211.jpg",
+			image: "/assets/images/baselmuseum/GKS211.jpg",
 			provenance: {
 				nom: "Oberrheinische Schule",
 				pays: "DE",
@@ -1189,7 +1189,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1900",
-			image: "assets/images/baselmuseum/GKS227.jpg",
+			image: "/assets/images/baselmuseum/GKS227.jpg",
 			provenance: {
 				nom: "Monogrammist H F",
 				pays: "Basel",
@@ -1214,7 +1214,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1900",
-			image: "assets/images/baselmuseum/GKS228.jpg",
+			image: "/assets/images/baselmuseum/GKS228.jpg",
 			provenance: {
 				nom: "Ambrosius Holbein",
 				pays: "Basel",
@@ -1239,7 +1239,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1900",
-			image: "assets/images/baselmuseum/GKS230.jpg",
+			image: "/assets/images/baselmuseum/GKS230.jpg",
 			provenance: {
 				nom: "Jean-François de Troy",
 				pays: "Paris, FR",
@@ -1264,7 +1264,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1901",
-			image: "assets/images/baselmuseum/GKS281.jpg",
+			image: "/assets/images/baselmuseum/GKS281.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Basel",
@@ -1289,7 +1289,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1901",
-			image: "assets/images/baselmuseum/GKS282.jpg",
+			image: "/assets/images/baselmuseum/GKS282.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Florenz",
@@ -1314,7 +1314,7 @@ export const arts = {
 			},
 			objet: "Dessin",
 			anneeacquisition: "1901",
-			image: "assets/images/baselmuseum/GKS284.jpg",
+			image: "/assets/images/baselmuseum/GKS284.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "San Domenico, IT ",
@@ -1339,7 +1339,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1902",
-			image: "assets/images/baselmuseum/GKS322.jpg",
+			image: "/assets/images/baselmuseum/GKS322.jpg",
 			provenance: {
 				nom: "Hans Sandreuter",
 				pays: "Basel",
@@ -1364,7 +1364,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1902",
-			image: "assets/images/baselmuseum/GKS331.jpg",
+			image: "/assets/images/baselmuseum/GKS331.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Basel",
@@ -1389,7 +1389,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1902",
-			image: "assets/images/baselmuseum/GKS335.jpg",
+			image: "/assets/images/baselmuseum/GKS335.jpg",
 			provenance: {
 				nom: "Simon Kick",
 				pays: "Amsterdam",
@@ -1414,7 +1414,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1903",
-			image: "assets/images/baselmuseum/GKS342.jpg",
+			image: "/assets/images/baselmuseum/GKS342.jpg",
 			provenance: {
 				nom: "Hieronymus Hess",
 				pays: "Basel",
@@ -1439,7 +1439,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1904",
-			image: "assets/images/baselmuseum/GKS344.jpg",
+			image: "/assets/images/baselmuseum/GKS344.jpg",
 			provenance: {
 				nom: "Giovanni Segantini",
 				pays: "Savognin",
@@ -1464,7 +1464,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1904",
-			image: "assets/images/baselmuseum/GKS347.jpg",
+			image: "/assets/images/baselmuseum/GKS347.jpg",
 			provenance: {
 				nom: "Govaert Flinck",
 				pays: "Amsterdam",
@@ -1489,7 +1489,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1909",
-			image: "assets/images/baselmuseum/GKS477.jpg",
+			image: "/assets/images/baselmuseum/GKS477.jpg",
 			provenance: {
 				nom: "Hans Baldung",
 				pays: "Freiburg",
@@ -1514,7 +1514,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1910",
-			image: "assets/images/baselmuseum/GKS491.jpg",
+			image: "/assets/images/baselmuseum/GKS491.jpg",
 			provenance: {
 				nom: "Basler Schule",
 				pays: "Kirchgemeinde Büsserach",
@@ -1539,7 +1539,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1910",
-			image: "assets/images/baselmuseum/GKS492.jpg",
+			image: "/assets/images/baselmuseum/GKS492.jpg",
 			provenance: {
 				nom: "Basler Schule",
 				pays: "Kirchgemeinde Büsserach",
@@ -1564,7 +1564,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1917",
-			image: "assets/images/baselmuseum/GKS525.jpg",
+			image: "/assets/images/baselmuseum/GKS525.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Basel",
@@ -1589,7 +1589,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1917",
-			image: "assets/images/baselmuseum/GKS526_GKS200-1102.jpg",
+			image: "/assets/images/baselmuseum/GKS526_GKS200-1102.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Weimar",
@@ -1615,7 +1615,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1919",
-			image: "assets/images/baselmuseum/GKS579-1.jpg",
+			image: "/assets/images/baselmuseum/GKS579-1.jpg",
 			provenance: {
 				nom: "Hieronymus Hess",
 				pays: "Basel",
@@ -1640,7 +1640,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1919",
-			image: "assets/images/baselmuseum/GKS579-2.jpg",
+			image: "/assets/images/baselmuseum/GKS579-2.jpg",
 			provenance: {
 				nom: "Hieronymus Hess",
 				pays: "Basel",
@@ -1666,7 +1666,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1919",
-			image: "assets/images/baselmuseum/GKS579-3.jpg",
+			image: "/assets/images/baselmuseum/GKS579-3.jpg",
 			provenance: {
 				nom: "Hieronymus Hess",
 				pays: "Basel",
@@ -1691,7 +1691,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1920",
-			image: "assets/images/baselmuseum/GKS588.jpg",
+			image: "/assets/images/baselmuseum/GKS588.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Florenz",
@@ -1716,7 +1716,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1927",
-			image: "assets/images/baselmuseum/GKS671-1.jpg",
+			image: "/assets/images/baselmuseum/GKS671-1.jpg",
 			provenance: {
 				nom: "Schule Konrad Witz",
 				pays: "St. Gallen",
@@ -1742,7 +1742,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1927",
-			image: "assets/images/baselmuseum/GKS671-2.jpg",
+			image: "/assets/images/baselmuseum/GKS671-2.jpg",
 			provenance: {
 				nom: "Schule Konrad Witz",
 				pays: "St. Gallen",
@@ -1767,7 +1767,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1929",
-			image: "assets/images/baselmuseum/GKS713.jpg",
+			image: "/assets/images/baselmuseum/GKS713.jpg",
 			provenance: {
 				nom: "Konrad Witz",
 				pays: "Basel",
@@ -1792,7 +1792,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1943",
-			image: "assets/images/baselmuseum/GKS911.jpg",
+			image: "/assets/images/baselmuseum/GKS911.jpg",
 			provenance: {
 				nom: "Arnold Böcklin",
 				pays: "Basel",
@@ -1817,7 +1817,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1950",
-			image: "assets/images/baselmuseum/GKS954.jpg",
+			image: "/assets/images/baselmuseum/GKS954.jpg",
 			provenance: {
 				nom: "Ferdinand Hodler",
 				pays: "Genf",
@@ -1842,7 +1842,7 @@ export const arts = {
 			},
 			objet: "Gravure",
 			anneeacquisition: "1951",
-			image: "assets/images/baselmuseum/GKS960_GKS200-122.jpg",
+			image: "/assets/images/baselmuseum/GKS960_GKS200-122.jpg",
 			provenance: {
 				nom: "Urs Graf",
 				pays: "Solothurn",
@@ -1867,7 +1867,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1952",
-			image: "assets/images/baselmuseum/GKS978.jpg",
+			image: "/assets/images/baselmuseum/GKS978.jpg",
 			provenance: {
 				nom: "Ferdinand Hodler",
 				pays: "Genf",
@@ -1892,7 +1892,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1954",
-			image: "assets/images/baselmuseum/GKS997.jpg",
+			image: "/assets/images/baselmuseum/GKS997.jpg",
 			provenance: {
 				nom: "Ernst Stückelberger",
 				pays: "Basel",
@@ -1917,7 +1917,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1956",
-			image: "assets/images/baselmuseum/GKS1007_GKS200-1069.jpg",
+			image: "/assets/images/baselmuseum/GKS1007_GKS200-1069.jpg",
 			provenance: {
 				nom: "Marius Etienne François Borgeaud",
 				pays: "Lausanne",
@@ -1942,7 +1942,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1963",
-			image: "assets/images/baselmuseum/GKS1050_GKS200-1070.jpg",
+			image: "/assets/images/baselmuseum/GKS1050_GKS200-1070.jpg",
 			provenance: {
 				nom: "Otto Friedrich Meyer-Amden",
 				pays: "Bern",
@@ -1967,7 +1967,7 @@ export const arts = {
 			},
 			objet: "Gravure",
 			anneeacquisition: "1972",
-			image: "assets/images/baselmuseum/GKS1093_13_GKS200-1963_Vorderseite.jpg",
+			image: "/assets/images/baselmuseum/GKS1093_13_GKS200-1963_Vorderseite.jpg",
 			provenance: {
 				nom: "Pablo Picasso",
 				pays: "Paris",
@@ -1992,7 +1992,7 @@ export const arts = {
 			},
 			objet: "Dessin",
 			anneeacquisition: "1975",
-			image: "assets/images/baselmuseum/GKS1111_GKS200-1114_the best.jpg",
+			image: "/assets/images/baselmuseum/GKS1111_GKS200-1114_the best.jpg",
 			provenance: {
 				nom: "Alberto Giacometti",
 				pays: "Paris",
@@ -2017,7 +2017,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1984",
-			image: "assets/images/baselmuseum/GKS1162_GKS200-1074.jpg",
+			image: "/assets/images/baselmuseum/GKS1162_GKS200-1074.jpg",
 			provenance: {
 				nom: "Frank Buchser",
 				pays: "Solothurn",
@@ -2042,7 +2042,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1986",
-			image: "assets/images/baselmuseum/GKS1170.jpg",
+			image: "/assets/images/baselmuseum/GKS1170.jpg",
 			provenance: {
 				nom: "Johann Jakob Frey",
 				pays: "Rom",
@@ -2067,7 +2067,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1986",
-			image: "assets/images/baselmuseum/GKS1171.jpg",
+			image: "/assets/images/baselmuseum/GKS1171.jpg",
 			provenance: {
 				nom: "Johann Jakob Frey",
 				pays: "Rom",
@@ -2092,7 +2092,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1986",
-			image: "assets/images/baselmuseum/GKS1172.jpg",
+			image: "/assets/images/baselmuseum/GKS1172.jpg",
 			provenance: {
 				nom: "Johann Jakob Frey",
 				pays: "Rom",
@@ -2117,7 +2117,7 @@ export const arts = {
 			},
 			objet: "Dessin",
 			anneeacquisition: "2003",
-			image: "assets/images/baselmuseum/GKS1289_GKS200-1081jpg",
+			image: "/assets/images/baselmuseum/GKS1289_GKS200-1081.jpg",
 			provenance: {
 				nom: "Adrian Zingg",
 				pays: "Bern",
@@ -2144,7 +2144,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1896",
-			image: "assets/images/lausannemuseum/fk460_Vorderseite.jpg",
+			image: "/assets/images/lausannemuseum/fk460_Vorderseite.jpg",
 			provenance: {
 				nom: "Charles-Louis-Eugène Burnand",
 				pays: "Paris",
@@ -2169,7 +2169,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1896",
-			image: "assets/images/lausannemuseum/fK1129.jpg",
+			image: "/assets/images/lausannemuseum/fK1129.jpg",
 			provenance: {
 				nom: "Juliette Charlotte Hébert",
 				pays: "Genève",
@@ -2193,7 +2193,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1927",
-			image: "assets/images/lausannemuseum/fK1147.jpg",
+			image: "/assets/images/lausannemuseum/fK1147.jpg",
 			provenance: {
 				nom: "Abraham Hermanjat",
 				pays: "Aubonne",
@@ -2218,7 +2218,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1936",
-			image: "assets/images/lausannemuseum/fK1273.jpg",
+			image: "/assets/images/lausannemuseum/fK1273.jpg",
 			provenance: {
 				nom: "Karl Hügin",
 				pays: "Zürich",
@@ -2243,7 +2243,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1891",
-			image: "assets/images/lausannemuseum/fK1725_KF100-6378.jpg",
+			image: "/assets/images/lausannemuseum/fK1725_KF100-6378.jpg",
 			provenance: {
 				nom: "Luigi Monteverde",
 				pays: "Lugano",
@@ -2268,7 +2268,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1899",
-			image: "assets/images/lausannemuseum/fK1801.jpg",
+			image: "/assets/images/lausannemuseum/fK1801.jpg",
 			provenance: {
 				nom: "Jacques Alfred van Muyden",
 				pays: "Genève",
@@ -2293,7 +2293,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1891",
-			image: "assets/images/lausannemuseum/fK2028.jpg",
+			image: "/assets/images/lausannemuseum/fK2028.jpg",
 			provenance: {
 				nom: "Edouard Ravel",
 				pays: "Genève",
@@ -2318,7 +2318,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1925",
-			image: "assets/images/lausannemuseum/fK2108.jpg",
+			image: "/assets/images/lausannemuseum/fK2108.jpg",
 			provenance: {
 				nom: "Luigi Rossi",
 				pays: "Milano",
@@ -2343,7 +2343,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1909",
-			image: "assets/images/lausannemuseum/GKS475.jpg",
+			image: "/assets/images/lausannemuseum/GKS475.jpg",
 			provenance: {
 				nom: "Charles Gleyre",
 				pays: "Paris",
@@ -2368,7 +2368,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1913",
-			image: "assets/images/lausannemuseum/GKS512.jpg",
+			image: "/assets/images/lausannemuseum/GKS512.jpg",
 			provenance: {
 				nom: "Ernst Biéler",
 				pays: "Savièse",
@@ -2393,7 +2393,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1927",
-			image: "assets/images/lausannemuseum/GKS666.jpg",
+			image: "/assets/images/lausannemuseum/GKS666.jpg",
 			provenance: {
 				nom: "Félix Valloton",
 				pays: "Paris",
@@ -2418,7 +2418,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1927",
-			image: "assets/images/lausannemuseum/GKS667.jpg",
+			image: "/assets/images/lausannemuseum/GKS667.jpg",
 			provenance: {
 				nom: "Félix Valloton",
 				pays: "Vallorbe",
@@ -2443,7 +2443,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1932",
-			image: "assets/images/lausannemuseum/GKS742_GKS200-3210_Vorderseite.jpg",
+			image: "/assets/images/lausannemuseum/GKS742_GKS200-3210_Vorderseite.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Paris",
@@ -2468,7 +2468,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1932",
-			image: "assets/images/lausannemuseum/GKS743_GKS200-3212_Vorderseite.jpg",
+			image: "/assets/images/lausannemuseum/GKS743_GKS200-3212_Vorderseite.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Rome",
@@ -2493,7 +2493,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1935",
-			image: "assets/images/lausannemuseum/GKS815_GKS200-111.jpg",
+			image: "/assets/images/lausannemuseum/GKS815_GKS200-111.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Rome",
@@ -2518,7 +2518,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1939",
-			image: "assets/images/lausannemuseum/GKS884_Vorderseite.jpg",
+			image: "/assets/images/lausannemuseum/GKS884_Vorderseite.jpg",
 			provenance: {
 				nom: "Charles Alexandre Giron",
 				pays: "Paris",
@@ -2543,7 +2543,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1950",
-			image: "assets/images/lausannemuseum/GKS956_GKS200-1412.jpg",
+			image: "/assets/images/lausannemuseum/GKS956_GKS200-1412.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Paris",
@@ -2568,7 +2568,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1953",
-			image: "assets/images/lausannemuseum/GKS989.jpg",
+			image: "/assets/images/lausannemuseum/GKS989.jpg",
 			provenance: {
 				nom: "Félix Vallotton",
 				pays: "Cagnes",
@@ -2593,7 +2593,8 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1967",
-			image: "assets/images/lausannemuseum/GKS1066_70_GKS200-3208_Vorderseite.jpg",
+			image:
+				"/assets/images/lausannemuseum/GKS1066_70_GKS200-3208_Vorderseite.jpg",
 			provenance: {
 				nom: "Wilhelm Gimmi",
 				pays: "Chexbres",
@@ -2618,7 +2619,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1979",
-			image: "assets/images/lausannemuseum/GKS1132_GKS200-1410.jpg",
+			image: "/assets/images/lausannemuseum/GKS1132_GKS200-1410.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Rome",
@@ -2643,7 +2644,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1993",
-			image: "assets/images/lausannemuseum/GKS1240_GKS200-526.jpg",
+			image: "/assets/images/lausannemuseum/GKS1240_GKS200-526.jpg",
 			provenance: {
 				nom: "Félix Vallotton",
 				pays: "Paris",
@@ -2668,7 +2669,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "1995",
-			image: "assets/images/lausannemuseum/GKS1251_GKS200-2698_Vorderseite.jpg",
+			image: "/assets/images/lausannemuseum/GKS1251_GKS200-2698_Vorderseite.jpg",
 			provenance: {
 				nom: "Marc-Charles-Gabriel Gleyre",
 				pays: "Paris",
@@ -2693,7 +2694,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "2002",
-			image: "assets/images/lausannemuseum/GKS1286.jpg",
+			image: "/assets/images/lausannemuseum/GKS1286.jpg",
 			provenance: {
 				nom: "Félix Vallotton",
 				pays: "Paris",
@@ -2719,7 +2720,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "2016",
-			image: "assets/images/lausannemuseum/GKS1310_GKS200-370.jpg",
+			image: "/assets/images/lausannemuseum/GKS1310_GKS200-370.jpg",
 			provenance: {
 				nom: "Jacques Sablet",
 				pays: "Rome",
@@ -2744,7 +2745,7 @@ export const arts = {
 			},
 			objet: "Peinture",
 			anneeacquisition: "2011",
-			image: "assets/images/lausannemuseum/GKS1312_GKS200-328.jpg",
+			image: "/assets/images/lausannemuseum/GKS1312_GKS200-328.jpg",
 			provenance: {
 				nom: "Jean François Sablet",
 				pays: "Paris",
