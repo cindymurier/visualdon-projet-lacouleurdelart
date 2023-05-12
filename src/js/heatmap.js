@@ -76,6 +76,11 @@ export const heatmap = async (nb, museum) => {
 				openArtworkPage(artwork);
 			});
 
+			// // ajout de l'élément a pour redirection
+			// const link = document.createElement("a");
+			// link.href = "artwork.html";
+			// cell.appendChild(link);
+
 			row.appendChild(cell);
 			count++;
 		}
