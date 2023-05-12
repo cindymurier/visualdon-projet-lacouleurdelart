@@ -468,7 +468,7 @@
 }
 
 .history-content.mollusque {
-  background-image: url('../../dist/assets/content/diamantMollusque.png');
+  background-image: url('../assets/images/content/diamantMollusque.png');
   background-position: 50% 90%;
   background-repeat: no-repeat;
   background-size: 200px;
@@ -477,21 +477,21 @@
 }
 
 .history-content.vase {
-  background-image: url('../../dist/assets/content/vases.png');
+  background-image: url('../assets/images/content/vases.png');
   background-position: 90% 90%;
   background-repeat: no-repeat;
   background-size: 200px;
 }
 
 .history-content.picadelly {
-  background-image: url('../../dist/assets/content/picadelly.png');
+  background-image: url('../assets/images/content/picadelly.png');
   background-position: 100% 100%;
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 .history-content.muraille {
-  background-image: url('../../dist/assets/content/muraille.png');
+  background-image: url('../assets/images/content/muraille.png');
   background-position: 0 100%;
   background-repeat: no-repeat;
   background-size: 600px;
