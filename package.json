@@ -5,8 +5,9 @@
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build src/index.html && npm run copy-assets",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy-assets": "xcopy /s /y .\\src\\assets\\images .\\dist\\assets"
   },
   "repository": {
     "type": "git",
